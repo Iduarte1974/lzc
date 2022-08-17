@@ -1,48 +1,7 @@
 
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <title>CSS inheritance</title>
-        <style>
-        body {
-            font-size: 12px;
-        }
-        h2 {
-            color: rgb(0, 232, 15);
-            font-size: 1.5em;
-        }  
-        
-        #rabbits-info-heading {
-            background-color: purple;
-        }
-        
-        p {
-            color: rgb(191, 0, 255);
-            font-family: "Helvetica", sans-serif;
-        }
-        
-        #rabbits-info {
-            color: purple;
-            font-weight: bold;
-            text-decoration: underline;
-        }
-        
-        .song-lyrics {
-            background-color: yellow;
-            font-family: fantasy;
-            font-size: 13px;
-            font-style: italic;
-            line-height: 1.5em;
-            text-align: center;
-        }
-        
-        a {
-            text-decoration: none;
-        }
-        
-        </style>
-    </head>
+
     <body>
 
     <h1>All about rabbits!</h1>
